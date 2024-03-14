@@ -64,3 +64,34 @@ Após abrir o [copilot.microsoft.com](https://copilot.microsoft.com/), podemos v
 2° Resposta:
 ![Resposta do Prompt de Código 2](https://github.com/JPLabussiereF/Trabalhando-com-IA-Generativa-Lab05/blob/main/Praticas/generativeAIwithMicrosoftCopilot/Outputs/CodeGenerationResponse2.png?raw=true)
 
+## **2. Azure OpenAI**
+
+O Azure OpenAI Service traz os modelos generativos de IA desenvolvidos pela OpenAI para a plataforma Azure, permitindo-lhe desenvolver soluções poderosas de IA que beneficiam da segurança, escalabilidade e integração de serviços fornecidos pela plataforma de nuvem Azure.
+
+Você precisará de uma assinatura do Azure aprovada para acesso ao serviço Azure OpenAI para modelos de texto e código e modelos de geração de imagens DALL-E.
+
+- Para se inscrever para uma assinatura gratuita do Azure, visite https://azure.microsoft.com/free.
+- Para solicitar acesso ao serviço Azure OpenAI, visite https://aka.ms/oaiapply.
+
+## **3. Filtros de conteúdo no Azure OpenAI**
+
+O Azure OpenAI inclui filtros de conteúdo padrão para ajudar a garantir que solicitações e conclusões potencialmente prejudiciais sejam identificadas e removidas das interações com o serviço. Além disso, você pode solicitar permissão para definir filtros de conteúdo personalizados para suas necessidades específicas, a fim de garantir que as implantações de seu modelo imponham os princípios de IA responsáveis ​​apropriados para seu cenário de IA generativa. A filtragem de conteúdo é um elemento de uma abordagem eficaz para IA responsável ao trabalhar com modelos de IA generativos.
+
+Você precisará de uma assinatura do Azure aprovada para acesso ao serviço Azure OpenAI.
+
+- Para se inscrever para uma assinatura gratuita do Azure, visite https://azure.microsoft.com/free.
+- Para solicitar acesso ao serviço Azure OpenAI, visite https://aka.ms/oaiapply.
+
+
+## **Referências**
+
+ - [DIO - Microsoft Azure AI Fundamentals](https://web.dio.me/track/a088cda7-a37f-451a-b392-46fa7e6ddc55)
+
+ - [Explore generative AI with Microsoft Copilot](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+
+ - [Explore Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
+
+ - [Explore content filters in Azure OpenAI](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
+
+
+
